@@ -211,5 +211,5 @@ Lower values indicate that AC-3 and forward checking pruned the search space mor
 ---
 
 > **Author:** 23F-0777 | BCS-6E  
-> **Course:** Artificial Intelligence — Lab 11
+> **Course:** Artificial Intelligence 
 
